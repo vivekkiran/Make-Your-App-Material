@@ -1,7 +1,6 @@
 XYZReader
 =========
 In this project, the task is to redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
-Transformed the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
 
 XYZReader is a Feed Reader inspired by [Material Design](https://material.google.com/)
 
