@@ -1,24 +1,13 @@
-## Android Nanodegree Project 5
-In this project, the task is to redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
-
 XYZReader
 =========
+In this project, the task is to redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
+Transformed the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
 
 XYZReader is a Feed Reader inspired by [Material Design](https://material.google.com/)
 
-Screenshots (Nexus 7)
--------------------
-![Tablet_7_Port_List](http://res.cloudinary.com/chi6rag/image/upload/c_scale,w_300/v1467466495/tab_7_port_sc7m4j.png)
-![Tablet_7_Port_Detail](http://res.cloudinary.com/chi6rag/image/upload/c_scale,w_300/v1467466524/tab_7_detail_port_vixdpn.png)
-<br /><br />
-![Tablet_7_Land_Detail](http://res.cloudinary.com/chi6rag/image/upload/c_scale,h_600/a_270/v1467466549/tab_7_detail_land_y1vjef.png)
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
 
-ScreenShots (Nexus 10)
-----------------------
-![Tablet_10_Port_List](http://res.cloudinary.com/chi6rag/image/upload/c_scale,h_400/a_270/v1467466594/tab_7_port_p83kfq.png)
-![Tablet_10_Port_Detail](http://res.cloudinary.com/chi6rag/image/upload/c_scale,h_400/a_270/v1467466553/tab_7__detail_port_tfwycm.png)
-<br /><br />
-![Tablet_10_Land_Detail](http://res.cloudinary.com/chi6rag/image/upload/c_scale,h_600/v1467466544/tab_7__detail_land_ocnyq3.png)
+<img width="40%" vspace="20" hspace="20" src="https://cloud.githubusercontent.com/assets/2931932/17039819/dd38d6c8-4fa4-11e6-9914-e25d8764a759.png" /> <img width="40%" vspace="20" hspace="20" src="https://cloud.githubusercontent.com/assets/2931932/17039818/dd386b98-4fa4-11e6-9e67-6a500ba7c209.png" /> <img width="80%" hspace="20" vspace="20" src="https://cloud.githubusercontent.com/assets/2931932/17039817/dd37f898-4fa4-11e6-8001-6105bda2cac9.png" />
 
 ## Learning outcomes
 
